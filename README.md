@@ -5,7 +5,7 @@ Clipboard Health is a nationwide staffing platform, operating in all 50 states.
 
 ## Find all the columns with the most zeros
 ![Percentage of Zeros](Percentage%20of%20Zeros%20In%20Each%20Column.JPG)
-We can see after graphing the missing values that most columns are missing a good percentage of hours.
+## We can see after graphing the missing values that most columns are missing a good percentage of hours.
 ![Percentage of Zeros](Percentage%20of%20Zeros%20In%20Each%20Column%20Decreasing.JPG)
 Futher analysis shows that the columns with the most zeros are those that have ctr at the end. Meaning that those are contract employees.
 This emplies that full time employees that are not on contract are more employeed that those that are on contract.
