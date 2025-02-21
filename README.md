@@ -10,5 +10,6 @@ Clipboard Health is a nationwide staffing platform, operating in all 50 states.
 Futher analysis shows that the columns with the most zeros are those that have ctr at the end. Meaning that those are contract employees.
 This implies that full time employees that are not on contract are more employeed that those that are on contract.
 Digging deep we see that job positions with more senior titles such as **Director** or **Admin** are more likely to be full time employees rather than part-time/contract.
-## Looking Deeper
 ![Percentage of Zeros](Scaled.JPG)
+## Looking Deeper
+![Percentage of Zeros](Pics/SingleColumn.JPG)
