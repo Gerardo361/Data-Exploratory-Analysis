@@ -12,6 +12,5 @@ This implies that full time employees that are not on contract are more employed
 Digging deep we see that job positions with more senior titles such as **Director** or **Admin** are more likely to be full time employees rather than part-time/contract.
 ![Percentage of Zeros](Scaled.JPG)
 ## Looking Deeper
-We see that full time employees(emp) and part time contractors(ctr) hours all add up the overall hours of their positions.
-From the above graphs we see the contract employees have less hours and therefore underemployed
+We see that full time employees(emp) and part time contractors(ctr) hours all add up the overall hours of their positions.From the above graphs we see the contract employees have less hours and therefore underemployed
 ![Percentage of Zeros](Pics/SingleColumn.JPG)
