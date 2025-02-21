@@ -17,4 +17,3 @@ We see that full time employees(emp) and part time contractors(ctr) hours all ad
 ![Percentage of Zeros](Scaled.JPG)
 Digging deep we see that job positions with more senior titles such as **Director** or **Admin** are more likely to be full time employees rather than part-time/contract.
 We see that full time employees(emp) and part time contractors(ctr) hours all add up the overall hours of their positions.From the above graphs we see the contract employees have less hours and therefore underemployed.
-![Percentage of Zeros](Pics/SingleColumn.JPG)
