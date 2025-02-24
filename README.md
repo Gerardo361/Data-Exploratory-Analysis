@@ -4,7 +4,7 @@ Nursing homes are staffed by both employees and contractors. Employees work for 
 
 ## Find all the columns the highest percentage of zeros
 ![Percentage of Zeros](Percentage%20of%20Zeros%20In%20Each%20Column%20Decreasing.JPG)
-## We can see after graphing the missing values that most columns are missing a good percentage of hours.
+## We can see after graphing the missing values that most of the columns that are missing a good percentage of hours are contractors(ctr).
 ![Percentage of Zeros](Pics/SumofColumns.JPG)
 Further analysis shows that the columns with the most zeros are those that have ctr at the end. Meaning that those are contract employees.
 This implies that full time employees that are not on contract are more employed that those that are on contract.
