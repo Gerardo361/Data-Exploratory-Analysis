@@ -9,8 +9,6 @@ Nursing homes are staffed by both employees and contractors. Employees work for 
 Further analysis shows that the columns with the most zeros are those that have ctr at the end. Meaning that those are contract employees.
 This implies that full time employees that are not on contract are more employed that those that are on contract.
 We see that full time employees(emp) and part time contractors(ctr) hours all add up the overall hours of their positions.From the above graphs we see the contract employees have less hours and therefore underemployed
-![Percentage of Zeros](Pics/SingleColumn.JPG)
-
 ## Looking Deeper
 
 ![Percentage of Zeros](Scaled.JPG)
