@@ -19,4 +19,4 @@ Digging deep we see that job positions with more senior titles such as **Directo
 We see that full time employees(emp) and part time contractors(ctr) hours all add up the overall hours of their positions.From the above graphs we see the contract employees have less hours and therefore underemployed.
 
 ## More 
-![Percentage of Zeros](Pics/Sum of Columns.JPG)
+![Percentage of Zeros](Pics/SumofColumns.JPG)
