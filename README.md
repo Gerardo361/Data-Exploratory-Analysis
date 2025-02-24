@@ -4,8 +4,9 @@ Nursing homes are staffed by both employees and contractors. Employees work for 
 Clipboard Health is a nationwide staffing platform, operating in all 50 states.
 
 ## Find all the columns with the most zeros
-## We can see after graphing the missing values that most columns are missing a good percentage of hours.
 ![Percentage of Zeros](Percentage%20of%20Zeros%20In%20Each%20Column%20Decreasing.JPG)
+## We can see after graphing the missing values that most columns are missing a good percentage of hours.
+![Percentage of Zeros](Pics/SumofColumns.JPG)
 Further analysis shows that the columns with the most zeros are those that have ctr at the end. Meaning that those are contract employees.
 This implies that full time employees that are not on contract are more employed that those that are on contract.
 We see that full time employees(emp) and part time contractors(ctr) hours all add up the overall hours of their positions.From the above graphs we see the contract employees have less hours and therefore underemployed
@@ -18,4 +19,3 @@ Digging deep we see that job positions with more senior titles such as **Directo
 We see that full time employees(emp) and part time contractors(ctr) hours all add up the overall hours of their positions.From the above graphs we see the contract employees have less hours and therefore underemployed.
 
 ## More 
-![Percentage of Zeros](Pics/SumofColumns.JPG)
