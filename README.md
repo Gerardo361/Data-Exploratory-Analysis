@@ -4,7 +4,6 @@ Nursing homes are staffed by both employees and contractors. Employees work for 
 Clipboard Health is a nationwide staffing platform, operating in all 50 states.
 
 ## Find all the columns with the most zeros
-![Percentage of Zeros](Percentage%20of%20Zeros%20In%20Each%20Column.JPG)
 ## We can see after graphing the missing values that most columns are missing a good percentage of hours.
 ![Percentage of Zeros](Percentage%20of%20Zeros%20In%20Each%20Column%20Decreasing.JPG)
 Further analysis shows that the columns with the most zeros are those that have ctr at the end. Meaning that those are contract employees.
