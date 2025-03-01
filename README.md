@@ -15,4 +15,4 @@ We see that full time employees(emp) and part time contractors(ctr) hours all ad
 
 ## More 
 ![Zeros](Pics/seabornheatmap.JPG)
-We have the the column MDScensus has a high correlation CNA employees, LPN employees, and RN employees. T
+We have the the column MDScensus has a high correlation CNA employees, LPN employees, and RN employees. There
